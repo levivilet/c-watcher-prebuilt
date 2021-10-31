@@ -63,6 +63,8 @@ jobs:
         run: ./01_setup.sh
       - name: 02_build
         run: ./02_build.sh
+      - name: 03_test
+        run: ./03_test.sh
       - name: 04_package.sh
         run: ./04_package.sh
 
