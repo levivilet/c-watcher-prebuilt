@@ -2,7 +2,7 @@
 
 set -euxo pipefail
 
-VERSION="v0.0.9"
+VERSION="v0.0.10"
 
 rm -rf c-watcher
 
